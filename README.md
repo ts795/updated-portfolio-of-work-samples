@@ -1,9 +1,8 @@
 # Portfolio of Work Samples
 This web page is a portfolio of full stack development work created by Sam Lingampalli. It contains links to the deployed sites for projects that have been created by Sam Lingampalli. It was implemented by using the CSS flex layout and by using CSS media queries to make the web page responsive across different device sizes.
 
-## Site Pictures
-![Site](./assets/images/site_small_screen_device.png)
-![Site](./assets/images/site_large_screen_device.png)
+## Site Picture
+![Site](./assets/images/sitePicture.jpg)
 
 ## Getting Started
 
